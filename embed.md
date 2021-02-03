@@ -4,3 +4,7 @@
 
 
 
+{% embed url="https://infogram.com/design-stats-1hnq410ol1yvp23?live" %}
+
+
+
